@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ItemNames">
+        <item>Chicken Biryani</item>
+        <item>Mutton Biryani</item>
+        <item>Vegetable Biryani</item>
+        <item>Fish Fry</item>
+        <item>Chicken Curry</item>
+        <item>Mutton Curry</item>
+        <item>Egg Boiled</item>
+        <item>Chicken Kabab</item>
+        <item>Fruit Salad</item>
+        <item>Burger</item>
+
+    </string-array>
+
+    <string-array name="ItemPrice">
+        <item>₹180</item>
+        <item>₹220</item>
+        <item>₹150</item>
+        <item>₹100</item>
+        <item>₹120</item>
+        <item>₹150</item>
+        <item>₹85</item>
+        <item>₹180</item>
+        <item>₹80</item>
+        <item>₹160</item>
+
+    </string-array>
+
+
+
+    <array name="item_picture">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+
+    </array>
+</resources>

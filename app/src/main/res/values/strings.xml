@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bawarchi</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="item_title">Chicken Biryani</string>
+    <string name="item_desc">The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+    </string>
+    <string name="initial_quantity_value">0</string>
+</resources>

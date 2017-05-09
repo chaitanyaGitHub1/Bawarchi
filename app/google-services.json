@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "846361233230",
+    "firebase_url": "https://bawarchi-a16ab.firebaseio.com",
+    "project_id": "bawarchi-a16ab",
+    "storage_bucket": "bawarchi-a16ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846361233230:android:4acd8fdd9135caac",
+        "android_client_info": {
+          "package_name": "com.example.raghavendra.bawarchi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846361233230-sb59ra81k4un9jrvbtfm1gk94jmilmu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raghavendra.bawarchi",
+            "certificate_hash": "fe12b8c8c1637e4021975e409057c02396d808ab"
+          }
+        },
+        {
+          "client_id": "846361233230-b49ht7bmm094aqs16qqutpqm7rtb5l1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM-qBva1vsA4qpyTzU9BDUchEYF4Kmpu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846361233230-b49ht7bmm094aqs16qqutpqm7rtb5l1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
